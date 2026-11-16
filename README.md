@@ -2,6 +2,12 @@
 
 A complete Stock Sentiment Analysis project with a production-ready Streamlit UI. The project predicts whether a financial news sentence expresses **Positive** or **Negative** sentiment using two trained machine learning models.
 
+## 🌐 Live Demo
+
+**[🚀 Try the Deployed App Here](https://techmicra-aiml-summer-internship-xsrsjsstscul6htdccvwfu.streamlit.app/)**
+
+> Built by **Dev Patel** | Student ID: **23AIML047**
+
 ---
 
 ## 📁 Project Structure
