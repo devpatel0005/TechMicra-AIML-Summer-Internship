@@ -8,6 +8,12 @@
 
 **[🚀 Try the Deployed App Here](https://techmicra-aiml-summer-internship-xsrsjsstscul6htdccvwfu.streamlit.app/)**
 
+## ✍️ Project Blog
+
+**[📖 Read the Full Blog on Medium](https://medium.com/@23aiml047/from-financial-news-to-market-sentiment-building-an-end-to-end-stock-sentiment-analyzer-during-my-4e9a56c76cc6)**
+
+> A detailed walkthrough of building this end-to-end Stock Sentiment Analyzer — from financial news data to market sentiment predictions.
+
 > Built by **Dev Patel** | Student ID: **23AIML047** | TechMicra AI/ML Summer Internship
 
 ---
